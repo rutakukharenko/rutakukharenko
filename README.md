@@ -1,16 +1,17 @@
-## Hi there 👋
+### About Me
+Hi! 👋 I'm Ruta, a Junior Data Scientist at ADV Tech. I've been working in data science for a year, focusing on machine learning, data analysis and turning ideas into production-ready solutions. 🚀
 
-<!--
-**rutakukharenko/rutakukharenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Pet Project: Predicting Heart Disease 🫀
+In my personal project, I explored the famous **Framingham Heart Study** dataset to predict cardiovascular disease (CVD). The project combines research, modeling and deployment.
 
-Here are some ideas to get you started:
+### Tools & Tech  
+Python 🐍, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, XGBoost, LightGBM, CatBoost, Optuna, Streamlit, FastAPI, Docker.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Links
+https://github.com/rutaborealis/the_framingham_heart_study <br>
+https://github.com/rutaborealis/the_framingham_heart_study_fastapi_docker
+
+## Goals
+💡 Keep learning advanced data science techniques.  
+💡 Work on impactful projects that solve real-world problems.  
+💡 Improve my production coding skills to build scalable solutions.
