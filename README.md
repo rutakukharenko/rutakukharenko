@@ -8,8 +8,8 @@ In my personal project, I explored the famous **Framingham Heart Study** dataset
 Python 🐍, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, XGBoost, LightGBM, CatBoost, Optuna, Streamlit, FastAPI, Docker.
 
 ### Links
-https://github.com/rutaborealis/the_framingham_heart_study <br>
-https://github.com/rutaborealis/the_framingham_heart_study_fastapi_docker
+https://github.com/rutakukharenko/the_framingham_heart_study <br>
+https://github.com/rutakukharenko/the_framingham_heart_study_fastapi_docker
 
 ## Goals
 💡 Keep learning advanced data science techniques.  
